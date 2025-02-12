@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>小说 on Geoffrey</title>
+    <link>http://localhost:1313/tags/%E5%B0%8F%E8%AF%B4/</link>
+    <description>Recent content in 小说 on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 07 May 2024 15:15:44 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%B0%8F%E8%AF%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>读《第一炉香》：清醒着沉沦</title>
+      <link>http://localhost:1313/posts/%E8%AF%BB%E7%AC%AC%E4%B8%80%E7%82%89%E9%A6%99/</link>
+      <pubDate>Tue, 07 May 2024 15:15:44 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E8%AF%BB%E7%AC%AC%E4%B8%80%E7%82%89%E9%A6%99/</guid>
+      <description>&lt;p&gt;夜里读了张爱玲的《第一炉香》，葛薇龙和乔琪乔。&lt;/p&gt;&#xA;&lt;p&gt;觉得张爱玲写的真妙，比电影拍出来妙，妙在停在恰如其分的地方。&lt;/p&gt;&#xA;&lt;p&gt;（&lt;em&gt;重要提示：下面严重剧透，没看过小说勿点&lt;/em&gt;）&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我是猫：愚蠢的人类，你失去了我的踩踩</title>
+      <link>http://localhost:1313/posts/wo-shi-mao-yu-chun-de-ren-lei-ni-shi-qu-liao-wo-de-cai-cai/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/wo-shi-mao-yu-chun-de-ren-lei-ni-shi-qu-liao-wo-de-cai-cai/</guid>
+      <description>&lt;p&gt;像很多先辈一样，我穿过一片黑暗，然后再见到了光，同时获得了一只人类——体型巨大的两脚兽。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>启发 on Geoffrey</title>
+    <link>http://localhost:1313/tags/%E5%90%AF%E5%8F%91/</link>
+    <description>Recent content in 启发 on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Mon, 29 May 2023 21:54:55 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%90%AF%E5%8F%91/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>今天就是「总有一天」，此刻就是「找个时间」</title>
+      <link>http://localhost:1313/posts/today-is-some-day/</link>
+      <pubDate>Mon, 29 May 2023 21:54:55 +0800</pubDate>
+      <guid>http://localhost:1313/posts/today-is-some-day/</guid>
+      <description>&lt;p&gt;今天看了一个视频，其中一个点对我很有启发。&lt;/p&gt;&#xA;&lt;p&gt;B站up &lt;a href=&#34;https://space.bilibili.com/394165725&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;Chaologies&lt;/a&gt; 分享的《Someday Is Today》中的一个点，让他很有启发。&#xA;&lt;img loading=&#39;lazy&#39; decoding=&#34;async&#34; src=&#34;https://s2.loli.net/2023/05/29/NrV12sXmvCO6hGq.png&#34; alt=&#34;&#34;  /&gt;&#xA;我听了以后，想到之前的几次类似经历，也忽然和作者分享的经历产生了回响。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

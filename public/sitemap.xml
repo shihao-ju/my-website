@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/fr/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://smokedrinkandperm.pages.dev/posts/karmacodingcamp_day1/</loc><lastmod>2025-02-11T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/tags/programming/</loc><lastmod>2025-02-11T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/posts/</loc><lastmod>2025-02-11T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/tags/</loc><lastmod>2025-02-11T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/posts/coding/</loc><lastmod>2025-02-11T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/</loc><lastmod>2025-02-11T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/tags/crypto/</loc><lastmod>2025-02-10T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/tags/read/</loc><lastmod>2025-02-10T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/posts/what_is_money/</loc><lastmod>2025-02-10T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/posts/reading/</loc><lastmod>2025-02-10T00:00:00-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/about/</loc><lastmod>2022-02-21T19:57:45-08:00</lastmod></url><url><loc>https://smokedrinkandperm.pages.dev/categories/</loc></url><url><loc>https://smokedrinkandperm.pages.dev/posts/obsidian/</loc></url><url><loc>https://smokedrinkandperm.pages.dev/search/</loc><priority>0.1</priority></url><url><loc>https://smokedrinkandperm.pages.dev/archives/</loc></url><url><loc>https://smokedrinkandperm.pages.dev/posts/chat/</loc></url></urlset>

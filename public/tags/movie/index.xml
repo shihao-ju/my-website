@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Movie on Geoffrey</title>
+    <link>http://localhost:1313/tags/movie/</link>
+    <description>Recent content in Movie on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 23 Jun 2023 21:11:45 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/movie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>🎬我的错误：叛逆少女妹妹x豪门少爷继兄</title>
+      <link>http://localhost:1313/posts/movie-imdb-tt21909764/</link>
+      <pubDate>Fri, 23 Jun 2023 21:11:45 +0800</pubDate>
+      <guid>http://localhost:1313/posts/movie-imdb-tt21909764/</guid>
+      <description>&lt;p&gt;西班牙伪骨科小甜剧！&lt;/p&gt;&#xA;&lt;p&gt;全程土拨鼠尖叫。&lt;/p&gt;&#xA;&lt;p&gt;借用网友评论：「我是土狗我好爱！」&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>🎬爱的成人式：对于你来说,我是你的成人式</title>
+      <link>http://localhost:1313/posts/movie-imdb-tt4119590/</link>
+      <pubDate>Thu, 22 Jun 2023 22:10:44 +0800</pubDate>
+      <guid>http://localhost:1313/posts/movie-imdb-tt4119590/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;遇见她之后，我的人生从A面进入了B面。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;据说叙诡小说是不可能被影视化的，这部《爱的成人式》却是优秀的叙诡小说改编电影。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

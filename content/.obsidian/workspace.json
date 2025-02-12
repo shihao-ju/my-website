@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "0215227b1ed36a4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7060b5e79a2f6ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a21e9120b756579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/obsidian/obsidian新手系列之你不可不知的插件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19778804c3a14883",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/什么样的心态才是写文章的好心态.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a571d3a95743cc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2e64297d74abca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9c1f07a607064e0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "4c9ea387be01a110",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "lillianwho.com",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6c9e47fb3fc07ecb",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "be8b1685947f708c",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e910c14bad5a708",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15c861b7798e29bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/什么样的心态才是写文章的好心态.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0ca3c0870f34e8de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/什么样的心态才是写文章的好心态.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ed5802493414f86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2055c25906aa4887",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/什么样的心态才是写文章的好心态.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "19778804c3a14883",
+  "lastOpenFiles": [
+    "posts/hello-hugo.md",
+    "posts/obsidian/obsidian-flashcards.md",
+    "posts/falsk-build-vscode.md",
+    "posts/bao-cang-gridea-zhu-ti-break.md",
+    "posts/阅读的胃口和口味.md",
+    "posts/信：潮汐般的创作欲.md",
+    "posts/我的笔记系统和制卡流程演示.md",
+    "posts/什么样的心态才是写文章的好心态.md",
+    "posts/博客迁移通知.md",
+    "posts/reading/《纳瓦尔宝典》财富篇：自己产品化.md"
+  ]
+}

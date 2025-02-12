@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Obsidian on Geoffrey</title>
+    <link>http://localhost:1313/tags/obsidian/</link>
+    <description>Recent content in Obsidian on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sun, 22 Aug 2021 00:00:00 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/obsidian/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Obsidian优质内容合集</title>
+      <link>http://localhost:1313/posts/obsidian%E4%BC%98%E8%B4%A8%E5%86%85%E5%AE%B9%E5%90%88%E9%9B%86/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 -0700</pubDate>
+      <guid>http://localhost:1313/posts/obsidian%E4%BC%98%E8%B4%A8%E5%86%85%E5%AE%B9%E5%90%88%E9%9B%86/</guid>
+      <description>&lt;h2 id=&#34;官方自带帮助文档&#34;&gt;官方自带帮助文档&lt;/h2&gt;&#xA;&lt;p&gt;在obsidian界面左下角，❓图标，可以方便的打开官方帮助文档。并且如果你的语言设置是中文，这个文档也是中文的，非常的友好。&lt;/p&gt;&#xA;&lt;p&gt;点击这个图标打开：&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#39;lazy&#39; decoding=&#34;async&#34; src=&#34;https://i.loli.net/2021/09/24/fvjScAiIgwxEdms.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;&#xA;&lt;p&gt;既有Obsidian基本信息的介绍，能让你快速上手obsidian。&lt;/p&gt;&#xA;&lt;p&gt;&lt;img loading=&#39;lazy&#39; decoding=&#34;async&#34; src=&#34;https://i.loli.net/2021/09/24/hcVjFELiKzd7l42.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;&#xA;&lt;p&gt;又有markdown语法的演示，清晰又全面。想不起某个语法的时候，就来这里搜索一下。帮助库就内置在了本地，任何时候都可以方便的打开，不需要网络支持。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

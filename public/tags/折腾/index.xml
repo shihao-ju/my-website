@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>折腾 on Geoffrey</title>
+    <link>http://localhost:1313/tags/%E6%8A%98%E8%85%BE/</link>
+    <description>Recent content in 折腾 on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 03 Jan 2024 15:43:28 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%8A%98%E8%85%BE/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如果你也想拥有我的同款博客</title>
+      <link>http://localhost:1313/posts/how-to-clone-my-blog/</link>
+      <pubDate>Wed, 03 Jan 2024 15:43:28 +0800</pubDate>
+      <guid>http://localhost:1313/posts/how-to-clone-my-blog/</guid>
+      <description>&lt;p&gt;近期我收到好几个不属于我博客的评论通知邮件，点击链接发现了新的小站。看来大家都挺喜欢我的博客的哈，我不敢自专，博客主题是&lt;a href=&#34;https://immmmm.com&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;木木&lt;/a&gt;的，我只对页面做了很小的改动。&lt;/p&gt;&#xA;&lt;p&gt;这个主题真是广受喜爱，我自己也是粉丝的一员。木木老师牛逼！赞美木木老师！&lt;/p&gt;&#xA;&lt;p&gt;可能因为一些原因，大家想要和我博客一模一样的效果，所以拉取了我的整个库。这也没有问题，但是你还需要做以下事情：&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>分享两个好玩儿的</title>
+      <link>http://localhost:1313/posts/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E5%A5%BD%E7%8E%A9%E5%84%BF%E7%9A%84/</link>
+      <pubDate>Fri, 29 Dec 2023 15:41:11 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E5%88%86%E4%BA%AB%E4%B8%A4%E4%B8%AA%E5%A5%BD%E7%8E%A9%E5%84%BF%E7%9A%84/</guid>
+      <description>&lt;p&gt;Hello，亲爱的读者。&lt;/p&gt;&#xA;&lt;p&gt;近期没有长篇大论想说，简单分享两个觉得好玩的东西。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>带依赖项的个人项目管理软件，终于找到了！</title>
+      <link>http://localhost:1313/posts/notion-projects-tasks/</link>
+      <pubDate>Fri, 22 Sep 2023 21:28:46 +0800</pubDate>
+      <guid>http://localhost:1313/posts/notion-projects-tasks/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#39;lazy&#39; decoding=&#34;async&#34; src=&#34;https://s2.loli.net/2023/09/22/uWmXtSJil9TQfOZ.png&#34; alt=&#34;image.png&#34;  /&gt;&lt;/p&gt;&#xA;&lt;p&gt;这段时间因为开发APP，事项多了起来，开始用到了项目管理，并且感到手写的任务分解已经不够用了，继而转移到滴答清单。但是滴答清单也无法满足一个需求，那就是项目管理中会有的任务之间的关系，比如B项目的开始是依赖于A项目的结束。实际的应用场景就是APP上架安卓各大应用商城，前置条件就是APP需要完成备案，并且申请下来软著。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>博客新增邮件订阅：TinyLetter</title>
+      <link>http://localhost:1313/posts/thanks-tinyletter/</link>
+      <pubDate>Tue, 27 Jun 2023 20:24:37 +0800</pubDate>
+      <guid>http://localhost:1313/posts/thanks-tinyletter/</guid>
+      <description>&lt;p&gt;事情开始于，有读者问邮件订阅。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>记smms图床挂掉的处理</title>
+      <link>http://localhost:1313/posts/%E8%AE%B0smms%E5%9B%BE%E5%BA%8A%E6%8C%82%E6%8E%89%E7%9A%84%E5%A4%84%E7%90%86/</link>
+      <pubDate>Tue, 27 Jun 2023 00:26:09 +0800</pubDate>
+      <guid>http://localhost:1313/posts/%E8%AE%B0smms%E5%9B%BE%E5%BA%8A%E6%8C%82%E6%8E%89%E7%9A%84%E5%A4%84%E7%90%86/</guid>
+      <description>&lt;p&gt;前两天突然一个读者告诉我博客的图片挂了。我上去一看，还真是，所有使用了图床的图片都出不来了。&lt;/p&gt;&#xA;&lt;p&gt;今天上网搜解决方案，又登录到&lt;a href=&#34;https://sm.ms&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;sm.ms&lt;/a&gt; 上看了一下。看到一个官方的通知：由于中国国内无法访问，新增了一个域名&lt;code&gt;smms.app&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>写作软件Writeathon测评：卡片写作法实践工具</title>
+      <link>http://localhost:1313/posts/hi-writeathon/</link>
+      <pubDate>Sat, 13 May 2023 01:24:34 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hi-writeathon/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;写作就像马拉松，贵在坚持。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;官网：&lt;a href=&#34;https://www.writeathon.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;writeathon.cn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;教程：&lt;a href=&#34;https://guide.writeathon.cn/guide/v3/writeathon-v3-part-one.html#writeathon%e7%9a%84%e8%af%9e%e7%94%9f&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;Writeathon 教程&lt;/a&gt; ，建议从产品计划开始看。&lt;/p&gt;&#xA;&lt;p&gt;这是唯一一个我真正见到的 卡片盒写作的实践，开发者把用软件进行卡片盒写作的全流程写在了教程文档里，很有参考意义。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>新的免费博客方案</title>
+      <link>http://localhost:1313/posts/new-blog-sys/</link>
+      <pubDate>Sun, 12 Mar 2023 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/new-blog-sys/</guid>
+      <description>&lt;p&gt;之前有博客的读者找过来，我很惭愧，因为年后很长一段时间都没有更新博客了。我曾经有一段时间更新博客比更新公众号更勤，因为博客想发什么就发什么，可以不那么注重文章形式。如今为什么又懒得更新博客了呢？这就要从近期博客的改变说起了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>obsidian配合hugo、cloudflare：让发布博客简单到不可思议</title>
+      <link>http://localhost:1313/posts/obsidian-hugo-cloudflare/</link>
+      <pubDate>Sat, 11 Mar 2023 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/obsidian-hugo-cloudflare/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#39;lazy&#39; decoding=&#34;async&#34; src=&#34;https://s2.loli.net/2023/03/18/WzmvgDcoRysPAhi.png&#34; alt=&#34;image.png&#34;  /&gt;&lt;/p&gt;&#xA;&lt;p&gt;自从我更换博客系统到 hugo 之后，我越来越少发博客了。原因除了最近写得少之外，就是发布起来不如之前使用 Gridea 那么方便了。&lt;/p&gt;&#xA;&lt;p&gt;参考了几篇文章，现在的发布流程为：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;obsidian 创建文章并写作。&lt;/li&gt;&#xA;&lt;li&gt;利用 obsidian-git 插件将文件自动同步到 github&lt;/li&gt;&#xA;&lt;li&gt;cloudflare 自动拉取 github 仓库，并自动构建为hugo 项目，相当于省略了本地执行 &lt;code&gt;hugo -D&lt;/code&gt; 的过程。&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>Hello Hugo</title>
+      <link>http://localhost:1313/posts/hello-hugo/</link>
+      <pubDate>Tue, 18 Oct 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hello-hugo/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#39;lazy&#39; decoding=&#34;async&#34; src=&#34;https://s2.loli.net/2022/10/18/zIW2G7T4FldPCy8.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;为什么换hugo&#34;&gt;为什么换hugo？&lt;/h2&gt;&#xA;&lt;p&gt;纯粹是喜欢 &lt;a href=&#34;https://immmmm.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;木木的博客&lt;/a&gt;，想要像他一样&lt;strong&gt;在文章列表里面显示丰富的文章内容&lt;/strong&gt;。在gridea里没有找到心仪的主题，干脆折腾一下，搞个hugo 的 demo 看一下。&lt;/p&gt;&#xA;&lt;p&gt;地址：http://hugoblog.lillianwho.com/&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用途大于工具，再谈flomo</title>
+      <link>http://localhost:1313/posts/my-memo-use/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-memo-use/</guid>
+      <description>&lt;p&gt;flomo不是我的笔记软件，它是我完全隐私的日记+备忘录。&lt;/p&gt;&#xA;&lt;p&gt;总是有人问我，为什么非得是flomo？其实不是，我曾经非常看不上flomo，它的作用被夸大了，做知识管理这个用途反正被我pass掉了，通过对比自己对知识管理的需求，发现flomo不满足我的需要。我觉得它像当初发说说（QQ空间的动态），我说发说说能有什么用呢？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>木木大佬总能激发我折腾博客的新动力</title>
+      <link>http://localhost:1313/posts/imm20221010/</link>
+      <pubDate>Mon, 10 Oct 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/imm20221010/</guid>
+      <description>&lt;p&gt;下载了一个 RSS 客户端，想把我喜欢的博客都加入订阅！这样有更新时就可以及时知道啦！以前还喊着 RSS 已死的我，最后还是搞了这么个「老古董」。&lt;/p&gt;&#xA;&lt;p&gt;Mac 端用的App是 Readkit，第一次用，也没有用过其他 Rss 客户端，没得对比。如果有更好的（&amp;amp;免费）欢迎告诉我！&#xA;（对了，Readkit 添加RSS 时不需要事先知道订阅网站的rss 地址，输入网址点击搜索，会出现可订阅源，选择&lt;code&gt;.xml&lt;/code&gt;结尾的就可以了，我感觉还蛮好用的）&lt;/p&gt;&#xA;&lt;p&gt;在加 Rss 源的时候，打开了网页书签，结果发现木木大佬更新了！&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>番茄todo VS 专注清单</title>
+      <link>http://localhost:1313/posts/tomato-todo-vs-focus-list/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/tomato-todo-vs-focus-list/</guid>
+      <description>&lt;p&gt;这两个 App 都是番茄钟类型的 App ，也都有待办清单。&lt;/p&gt;&#xA;&lt;p&gt;番茄todo 的产品逻辑是计划每天待办时长。A任务B任务C任务各执行多少个番茄钟。所以它的计划对象实际上是番茄钟，你今天计划完成几个番茄钟，完成了计划的个数就算完成了任务。而不管你是否真的完成了这个待办事项。这样看来其实有点奇怪，这也是我用这个app比较别扭的地方。它是定量计划。&lt;/p&gt;&#xA;&lt;p&gt;而专注清单的计划对象是待办，任何时候待办完成了，就可以打钩。而番茄钟是执行任务时的计时，用于辅助进入专注状态。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>专注类APP测评</title>
+      <link>http://localhost:1313/posts/focus-app-eva/</link>
+      <pubDate>Fri, 30 Sep 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/focus-app-eva/</guid>
+      <description>&lt;p&gt;最近同时进行好几个项目（有子任务的任务），强烈需要一款专注 App，在自己动手做之前，我想再尝试找一下现有的工具是否可以满足我的需求。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>解决了Breek主题Valine数据统计的问题</title>
+      <link>http://localhost:1313/posts/jie-jue-liao-breek-zhu-ti-valine-shu-ju-tong-ji-de-wen-ti/</link>
+      <pubDate>Fri, 23 Sep 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/jie-jue-liao-breek-zhu-ti-valine-shu-ju-tong-ji-de-wen-ti/</guid>
+      <description>&lt;p&gt;Breek 主题自带了 Valine 系统，并且可以开启阅读统计，开启后会在首页以及文章页面显示单个文章的评论数和阅读数。&lt;/p&gt;&#xA;&lt;p&gt;但是，我使用过程中发现这两个数字都是0，不会被更新。一直以为是 LeanCloud 函数的问题，今天查看请求的时候，发现了问题所在。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lili-Docs搬砖中</title>
+      <link>http://localhost:1313/posts/lili-docs-ban-zhuan-zhong/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/lili-docs-ban-zhuan-zhong/</guid>
+      <description>&lt;p&gt;昨天发布 docsify 做的文档站点 &lt;a href=&#34;http://docs.lillianwho.com/#/&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;Lili-Docs&lt;/a&gt; 之后，还有一些未完成的事项在记挂着。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用docsify生成文档网站</title>
+      <link>http://localhost:1313/posts/hi-docsify/</link>
+      <pubDate>Wed, 21 Sep 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hi-docsify/</guid>
+      <description>&lt;p&gt;docsify 是一个文档网站生成器。把你的 markdown 文件扔进去，它会生成文档型的网站。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>宝藏Gridea主题：Break</title>
+      <link>http://localhost:1313/posts/bao-cang-gridea-zhu-ti-break/</link>
+      <pubDate>Mon, 19 Sep 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/bao-cang-gridea-zhu-ti-break/</guid>
+      <description>&lt;p&gt;事情始于我给博客找可用的评论系统。&lt;/p&gt;&#xA;&lt;p&gt;之前我是用hexo建站的，使用了Twikoo 当评论系统，体验非常好。在此也感谢从那时起就给我博客评论和留言的人，真的给我的写博客之路很大的支持，让我不是在单机写作。&lt;/p&gt;&#xA;&lt;p&gt;自从给网站备案以后，评论就因为备案原因关闭了。看了下日期，那是2022-02-25，原来我已经单机写作这么长时间了。于是突发奇想，想冒险把评论打开。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>记一次picgo上传失败的处理-SM.MS图床</title>
+      <link>http://localhost:1313/posts/ji-yi-ci-picgo-shang-chuan-shi-bai-de-chu-li-smms-tu-chuang/</link>
+      <pubDate>Sun, 18 Sep 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/ji-yi-ci-picgo-shang-chuan-shi-bai-de-chu-li-smms-tu-chuang/</guid>
+      <description>&lt;p&gt;自从去年在obsidian中用了自动上传插件，配合picgo+SM.MS图床，解决了自动上传图片之后，很长一段时间这都是我的ob标配。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我承认，我错待了flomo</title>
+      <link>http://localhost:1313/posts/wo-cheng-ren-wo-cuo-dai-liao-flomo/</link>
+      <pubDate>Wed, 08 Jun 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/wo-cheng-ren-wo-cuo-dai-liao-flomo/</guid>
+      <description>&lt;p&gt;我之前对flomo的观点是：根本没办法用它记笔记，像发说说一样，怎么做知识/信息管理？&lt;/p&gt;&#xA;&lt;p&gt;最近我才找到了适用它的场景，然后，我要承认，我错待了flomo. 找到了使用它的逻辑以后，这个软件简直太好用了！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

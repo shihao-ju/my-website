@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>观影 on Geoffrey</title><link>https://smokedrinkandperm.pages.dev/posts/coding/</link><description>Recent content in 观影 on Geoffrey</description><generator>Hugo</generator><language>zh-CN</language><lastBuildDate>Tue, 11 Feb 2025 00:00:00 -0800</lastBuildDate><atom:link href="https://smokedrinkandperm.pages.dev/posts/coding/index.xml" rel="self" type="application/rss+xml"/><item><title>DSA - Day 1</title><link>https://smokedrinkandperm.pages.dev/posts/karmacodingcamp_day1/</link><pubDate>Tue, 11 Feb 2025 00:00:00 -0800</pubDate><guid>https://smokedrinkandperm.pages.dev/posts/karmacodingcamp_day1/</guid><description>&lt;h1 id="karmacoder-day-1-lc70427977">KarmaCoder Day 1 LC704/27/977&lt;/h1>
+&lt;p>1️⃣ Binary search
+Link: &lt;a href="https://leetcode.com/problems/binary-search/description/" target="_blank" rel="noopener nofollow noreferrer" >lc704&lt;/a>&lt;/p>
+&lt;p>Key points:&lt;/p>
+&lt;ol>
+&lt;li>The principle is the range definition, either a double-closed range [A, B] or a left-closed right-open range [A, B)&lt;/li>
+&lt;li>the while loop condition depends on the range definition:
+&lt;ol>
+&lt;li>double-closed: &lt;code>left &amp;lt;= right&lt;/code> is valid&lt;/li>
+&lt;li>left-closed right open: &lt;code>left &amp;lt; right&lt;/code> is valid.&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>the if-else statement depends on the range definition:
+&lt;ol>
+&lt;li>double-closed: the updated left or right does not include mid&lt;/li>
+&lt;li>left-closed right open: the updated right can include mid&lt;/li>
+&lt;/ol>
+&lt;/li>
+&lt;li>Similarly, right is initialized to numsSize - 1 or numsSize also depends on the range definition.&lt;/li>
+&lt;/ol>
+&lt;p>Time complexity: O(logn)
+Space complexity: O(1)&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">search&lt;/span>(self, nums: List[int], target: int) &lt;span style="color:#f92672">-&amp;gt;&lt;/span> int:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> left &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#ae81ff">0&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> right &lt;span style="color:#f92672">=&lt;/span> len(nums)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">while&lt;/span> left &lt;span style="color:#f92672">&amp;lt;&lt;/span> right:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> mid &lt;span style="color:#f92672">=&lt;/span> (left &lt;span style="color:#f92672">+&lt;/span> right) &lt;span style="color:#f92672">//&lt;/span> &lt;span style="color:#ae81ff">2&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> target &lt;span style="color:#f92672">&amp;lt;&lt;/span> nums[mid]:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> right &lt;span style="color:#f92672">=&lt;/span> mid
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">elif&lt;/span> target &lt;span style="color:#f92672">&amp;gt;&lt;/span> nums[mid]:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> left &lt;span style="color:#f92672">=&lt;/span> mid &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">else&lt;/span>:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> mid
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> &lt;span style="color:#f92672">-&lt;/span>&lt;span style="color:#ae81ff">1&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>2️⃣ Remove element
+Link: &lt;a href="https://leetcode.com/problems/remove-element/description/" target="_blank" rel="noopener nofollow noreferrer" >lc27&lt;/a>
+Key points:&lt;/p></description></item></channel></rss>

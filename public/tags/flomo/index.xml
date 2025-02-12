@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flomo on Geoffrey</title>
+    <link>http://localhost:1313/tags/flomo/</link>
+    <description>Recent content in Flomo on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 06 Jan 2024 15:04:44 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/flomo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>最近用flomo渐入佳境</title>
+      <link>http://localhost:1313/posts/20240106150444/</link>
+      <pubDate>Sat, 06 Jan 2024 15:04:44 +0800</pubDate>
+      <guid>http://localhost:1313/posts/20240106150444/</guid>
+      <description>&lt;p&gt;最近用flomo渐入佳境。从前有的没的都记，有时候情绪不好，又躺着不想动，直接手机打字是最快捷的书写方式。还会记一点间歇日记，当做时间轴手帐的中转站。以及关于宠物的需要持续追踪的事项。&lt;/p&gt;&#xA;&lt;p&gt;最近感觉渐入佳境是因为，当我感觉到自己的某种情绪时，会打开flomo记下来，并且我能够更进一步去问去察觉，为什么如此。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>用途大于工具，再谈flomo</title>
+      <link>http://localhost:1313/posts/my-memo-use/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/my-memo-use/</guid>
+      <description>&lt;p&gt;flomo不是我的笔记软件，它是我完全隐私的日记+备忘录。&lt;/p&gt;&#xA;&lt;p&gt;总是有人问我，为什么非得是flomo？其实不是，我曾经非常看不上flomo，它的作用被夸大了，做知识管理这个用途反正被我pass掉了，通过对比自己对知识管理的需求，发现flomo不满足我的需要。我觉得它像当初发说说（QQ空间的动态），我说发说说能有什么用呢？&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

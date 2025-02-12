@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>写作软件 on Geoffrey</title>
+    <link>http://localhost:1313/tags/%E5%86%99%E4%BD%9C%E8%BD%AF%E4%BB%B6/</link>
+    <description>Recent content in 写作软件 on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 13 May 2023 01:24:34 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E5%86%99%E4%BD%9C%E8%BD%AF%E4%BB%B6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>写作软件Writeathon测评：卡片写作法实践工具</title>
+      <link>http://localhost:1313/posts/hi-writeathon/</link>
+      <pubDate>Sat, 13 May 2023 01:24:34 +0800</pubDate>
+      <guid>http://localhost:1313/posts/hi-writeathon/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;写作就像马拉松，贵在坚持。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;官网：&lt;a href=&#34;https://www.writeathon.cn&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;writeathon.cn&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;教程：&lt;a href=&#34;https://guide.writeathon.cn/guide/v3/writeathon-v3-part-one.html#writeathon%e7%9a%84%e8%af%9e%e7%94%9f&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;Writeathon 教程&lt;/a&gt; ，建议从产品计划开始看。&lt;/p&gt;&#xA;&lt;p&gt;这是唯一一个我真正见到的 卡片盒写作的实践，开发者把用软件进行卡片盒写作的全流程写在了教程文档里，很有参考意义。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

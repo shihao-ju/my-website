@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN"><generator uri="https://gohugo.io/" version="0.143.1">Hugo</generator><title type="html">Geoffrey</title><link href="https://smokedrinkandperm.pages.dev/atom.xml" rel="self" type="application/rss+xml" title="atom"/><link href="https://smokedrinkandperm.pages.dev/" rel="alternate" type="text/html" title="html"/><link href="https://smokedrinkandperm.pages.dev/index.json" rel="alternate" type="application/json" title="json"/><updated>2025-02-11T22:36:11-08:00</updated><id>https://smokedrinkandperm.pages.dev/atom.xml</id><entry><title type="html">DSA - Day 1</title><link href="https://smokedrinkandperm.pages.dev/posts/karmacodingcamp_day1/" rel="alternate" type="text/html"/><id>https://smokedrinkandperm.pages.dev/posts/karmacodingcamp_day1/</id><published>2025-02-11T00:00:00-08:00</published><updated>2025-02-11T00:00:00-08:00</updated><content type="html"><![CDATA[<h1 id="karmacoder-day-1-lc70427977">KarmaCoder Day 1 LC704/27/977</h1>
+<p>1️⃣ Binary search
+Link: <a href="https://leetcode.com/problems/binary-search/description/" target="_blank" rel="noopener nofollow noreferrer" >lc704</a></p>
+<p>Key points:</p>
+<ol>
+<li>The principle is the range definition, either a double-closed range [A, B] or a left-closed right-open range [A, B)</li>
+<li>the while loop condition depends on the range definition:
+<ol>
+<li>double-closed: <code>left &lt;= right</code> is valid</li>
+<li>left-closed right open: <code>left &lt; right</code> is valid.</li>
+</ol>
+</li>
+<li>the if-else statement depends on the range definition:
+<ol>
+<li>double-closed: the updated left or right does not include mid</li>
+<li>left-closed right open: the updated right can include mid</li>
+</ol>
+</li>
+<li>Similarly, right is initialized to numsSize - 1 or numsSize also depends on the range definition.</li>
+</ol>
+<p>Time complexity: O(logn)
+Space complexity: O(1)</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">search</span>(self, nums: List[int], target: int) <span style="color:#f92672">-&gt;</span> int:
+</span></span><span style="display:flex;"><span>  left <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>
+</span></span><span style="display:flex;"><span>  right <span style="color:#f92672">=</span> len(nums)
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">while</span> left <span style="color:#f92672">&lt;</span> right:
+</span></span><span style="display:flex;"><span>      mid <span style="color:#f92672">=</span> (left <span style="color:#f92672">+</span> right) <span style="color:#f92672">//</span> <span style="color:#ae81ff">2</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> target <span style="color:#f92672">&lt;</span> nums[mid]:
+</span></span><span style="display:flex;"><span>          right <span style="color:#f92672">=</span> mid
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">elif</span> target <span style="color:#f92672">&gt;</span> nums[mid]:
+</span></span><span style="display:flex;"><span>          left <span style="color:#f92672">=</span> mid <span style="color:#f92672">+</span> <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">else</span>:
+</span></span><span style="display:flex;"><span>          <span style="color:#66d9ef">return</span> mid
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> <span style="color:#f92672">-</span><span style="color:#ae81ff">1</span>
+</span></span></code></pre></div><p>2️⃣ Remove element
+Link: <a href="https://leetcode.com/problems/remove-element/description/" target="_blank" rel="noopener nofollow noreferrer" >lc27</a>
+Key points:</p>
+<ol>
+<li>Use two pointers, fast and slow.</li>
+<li>Fast pointer points to the to-be-recorded element in the original array</li>
+<li>Slow pointer points to the new location for the to-be-recorded element.</li>
+</ol>
+<p>Time complexity: O(n)
+Space complexity: O(1)</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">removeElement</span>(self, nums: List[int], val: int) <span style="color:#f92672">-&gt;</span> int:
+</span></span><span style="display:flex;"><span>  slow <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">for</span> i <span style="color:#f92672">in</span> range(len(nums)):
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> nums[i] <span style="color:#f92672">!=</span> val:
+</span></span><span style="display:flex;"><span>          nums[slow] <span style="color:#f92672">=</span> nums[i]
+</span></span><span style="display:flex;"><span>          slow <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> slow
+</span></span></code></pre></div><p>3️⃣ Squares of a sorted array
+Link: <a href="https://leetcode.com/problems/squares-of-a-sorted-array/description/" target="_blank" rel="noopener nofollow noreferrer" >lc977</a>
+Key points:</p>
+<ol>
+<li>Use two pointers, head and tail.</li>
+<li>A third pointer writes the larger data between head and tail pointers into the result array</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#66d9ef">def</span> <span style="color:#a6e22e">sortedSquares</span>(self, nums: List[int]) <span style="color:#f92672">-&gt;</span> List[int]:
+</span></span><span style="display:flex;"><span>  i <span style="color:#f92672">=</span> <span style="color:#ae81ff">0</span>
+</span></span><span style="display:flex;"><span>  j <span style="color:#f92672">=</span> len(nums) <span style="color:#f92672">-</span> <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span>  k <span style="color:#f92672">=</span> j
+</span></span><span style="display:flex;"><span>  sorted_nums <span style="color:#f92672">=</span> [<span style="color:#ae81ff">0.0</span>] <span style="color:#f92672">*</span> len(nums)
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">while</span> i <span style="color:#f92672">&lt;=</span> j:
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">if</span> nums[i] <span style="color:#f92672">*</span> nums[i] <span style="color:#f92672">&gt;</span> nums[j] <span style="color:#f92672">*</span> nums[j]:
+</span></span><span style="display:flex;"><span>          sorted_nums[k] <span style="color:#f92672">=</span> nums[i] <span style="color:#f92672">*</span> nums[i]
+</span></span><span style="display:flex;"><span>          i <span style="color:#f92672">+=</span> <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#66d9ef">else</span>:
+</span></span><span style="display:flex;"><span>          sorted_nums[k] <span style="color:#f92672">=</span> nums[j] <span style="color:#f92672">*</span> nums[j]
+</span></span><span style="display:flex;"><span>          j <span style="color:#f92672">-=</span> <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span>      k <span style="color:#f92672">-=</span> <span style="color:#ae81ff">1</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#66d9ef">return</span> sorted_nums
+</span></span></code></pre></div>]]></content><category scheme="https://smokedrinkandperm.pages.dev/tags/programming" term="programming" label="Programming"/></entry><entry><title type="html">What is Money</title><link href="https://smokedrinkandperm.pages.dev/posts/what_is_money/" rel="alternate" type="text/html"/><id>https://smokedrinkandperm.pages.dev/posts/what_is_money/</id><published>2025-02-10T00:00:00-08:00</published><updated>2025-02-10T00:00:00-08:00</updated><content type="html"><![CDATA[<blockquote>
+<p>Money is energy</p></blockquote>
+<p>The greatest innovation of human being is channeling more and more energy.</p>
+]]></content><category scheme="https://smokedrinkandperm.pages.dev/tags/crypto" term="crypto" label="Crypto"/><category scheme="https://smokedrinkandperm.pages.dev/tags/read" term="read" label="Read"/></entry></feed>

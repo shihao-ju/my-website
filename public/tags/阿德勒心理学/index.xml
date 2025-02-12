@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>阿德勒心理学 on Geoffrey</title>
+    <link>http://localhost:1313/tags/%E9%98%BF%E5%BE%B7%E5%8B%92%E5%BF%83%E7%90%86%E5%AD%A6/</link>
+    <description>Recent content in 阿德勒心理学 on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 21 Apr 2023 15:56:29 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E9%98%BF%E5%BE%B7%E5%8B%92%E5%BF%83%E7%90%86%E5%AD%A6/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《像阿德勒一样思考和生活》</title>
+      <link>http://localhost:1313/posts/book-isbn-9787553509846/</link>
+      <pubDate>Fri, 21 Apr 2023 15:56:29 +0800</pubDate>
+      <guid>http://localhost:1313/posts/book-isbn-9787553509846/</guid>
+      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;人并非活在同一个世界，而是活在自己诠释的世界里。&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>

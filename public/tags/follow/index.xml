@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Follow on Geoffrey</title>
+    <link>http://localhost:1313/tags/follow/</link>
+    <description>Recent content in Follow on Geoffrey</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 03 Oct 2024 16:18:40 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/follow/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>给小白的Follow使用攻略</title>
+      <link>http://localhost:1313/posts/follow%E6%94%BB%E7%95%A5/</link>
+      <pubDate>Thu, 03 Oct 2024 16:18:40 +0800</pubDate>
+      <guid>http://localhost:1313/posts/follow%E6%94%BB%E7%95%A5/</guid>
+      <description>&lt;p&gt;Follow 最近大家都玩儿了吗？这篇文章写给刚上手的小白，包含了如何添加订阅和如何攒Power币。&lt;/p&gt;&#xA;&lt;h2 id=&#34;如何使用订阅&#34;&gt;如何使用订阅&lt;/h2&gt;&#xA;&lt;p&gt;总共分为3步：&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;拿到订阅源的链接。比如小红书、博客、X、Youtube&amp;hellip;&amp;hellip;，你想要订阅哪个博主，就打开他的主页，然后复制链接。&lt;/li&gt;&#xA;&lt;li&gt;到Follow里进行搜索。&#xA;&lt;ol&gt;&#xA;&lt;li&gt;点击「+」号可以打开发现页面，在这个页面可以搜索、添加订阅源。&lt;/li&gt;&#xA;&lt;li&gt;将复制的链接粘贴进搜索框，直接进行搜索。Follow 做的很智能，不用你自己去找RSS链接。&lt;/li&gt;&#xA;&lt;li&gt;甚至你可以尝试直接搜索博主的名字，也有可能会直接搜到订阅源。&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;F一下（点击Follow 进行订阅）&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>follow 我来了</title>
+      <link>http://localhost:1313/posts/follow%E6%88%91%E6%9D%A5%E4%BA%86/</link>
+      <pubDate>Sat, 28 Sep 2024 22:14:14 +0800</pubDate>
+      <guid>http://localhost:1313/posts/follow%E6%88%91%E6%9D%A5%E4%BA%86/</guid>
+      <description>&lt;p&gt;感谢 &lt;a href=&#34;https://hux.ink&#34; target=&#34;_blank&#34; rel=&#34;noopener nofollow noreferrer&#34; &gt;@落落vici&lt;/a&gt; 好心提供的邀请码！万分感谢！尤其是经过了蹲守 Discord 也因为解不出群里大佬们出的密码题最终空手而归，只能望洋兴叹。&lt;/p&gt;&#xA;&lt;p&gt;我终于有码了！&lt;/p&gt;&#xA;&lt;p&gt;咔咔一通操作，第一个先添加了木木老师的博客，这真是我现在唯一会逛的博客了。当然，我也是感觉到最近信息很闭塞，所以才想要重新整理一下，或者说重新打造一下信息摄入源。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
