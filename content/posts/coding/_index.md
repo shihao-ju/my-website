@@ -1,4 +1,4 @@
 ---
-title: "观影"
+title: "写码"
 slug: "movie-page"
 ---
