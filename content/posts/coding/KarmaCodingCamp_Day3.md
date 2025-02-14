@@ -1,5 +1,5 @@
 ---
-title: 'DSA - Day 3'
+title: 'DSA - Day 3 Linked List I'
 date: 2025-02-13
 tags: [Programming]
 draft: false

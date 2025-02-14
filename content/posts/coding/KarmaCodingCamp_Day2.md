@@ -1,5 +1,5 @@
 ---
-title: 'DSA - Day 2'
+title: 'DSA - Day 2 Array II'
 date: 2025-02-12
 tags: [Programming]
 draft: false
